@@ -2,7 +2,7 @@
 
 I build simple tools to solve my own problems — mostly terminal apps, mostly in Rust.
 
-Minimalism is the goal. Not just in design, but in function. I prefer clarity, speed, and systems I can understand top to bottom.
+Minimalism is the goal. Not just in design, but in function. I prefer clarity, speed, and systems I can understand top to bottom (never that well).
 
 - 🦀 Rust (preferred)
 - 🐍 Python (when it makes sense)
